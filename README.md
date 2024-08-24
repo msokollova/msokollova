@@ -4,12 +4,15 @@
 
 <p align="left">
   💻Currently working as a System Analyst at UniCredit Bulbank<br>
+  
   🌱 I'm learning Software Engineering with Python at SoftUni<br>
-  📖 Just have finished DevOps for Developers at SoftUni.</p>
+  
+  📖 Just have finished DevOps for Developers at SoftUni
+  </p>
 
 ###
 
-<h3 align="left">Technologies I work with</h3>
+<h3 align="center">Technologies I work with</h3>
 
 ###
 
@@ -43,7 +46,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="center">Social Media</h3>
 
 ###
 
