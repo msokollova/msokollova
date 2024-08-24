@@ -2,15 +2,18 @@
 
 ###
 
-<p align="left">💻Currently working as a System Analyst at UniCredit Bulbank<br>🌱 I'm learning Software Engineering with Python at SoftUni<br>📖 Just have finished DevOps for Developers at SoftUni.</p>
+<p align="left">
+  💻Currently working as a System Analyst at UniCredit Bulbank<br>
+  🌱 I'm learning Software Engineering with Python at SoftUni<br>
+  📖 Just have finished DevOps for Developers at SoftUni.</p>
 
 ###
 
-<h3 align="center">Technologies I work with</h3>
+<h3 align="left">Technologies I work with</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
@@ -40,10 +43,13 @@
 
 ###
 
-<h3 align="center">Social Media</h3>
+<h3 align="left">Social Media</h3>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/marinasokollova/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
+
