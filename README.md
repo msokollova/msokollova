@@ -3,11 +3,11 @@
 ###
 
 <p align="left">
-System Analyst with a passion for automating and optimizing IT processes. Currently expanding my skillset in DevOps, focusing on cloud infrastructure, CI/CD pipelines, and containerization. Eager to collaborate and contribute to innovative projects that drive efficiency and scalability.
+Application Administrator with a passion for automating and optimizing IT processes. Currently expanding my skillset in DevOps, focusing on cloud infrastructure, CI/CD pipelines, and containerization. Eager to collaborate and contribute to innovative projects that drive efficiency and scalability.
 </p>
 
 <p align="left">
-  💻Currently working as a System Analyst at UniCredit Bulbank<br>
+  💻Currently working as a Application Administrator at UniCredit Bulbank<br>
   
   🌱 I'm learning Software Engineering with Python at SoftUni<br>
   
