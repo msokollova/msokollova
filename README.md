@@ -19,7 +19,7 @@ I'm an <strong>Application Administrator</strong> with a passion for technology 
 I'm exploring containerization, automation, cloud platforms, and more through hands-on projects with the following tools:
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
@@ -45,7 +45,7 @@ I'm exploring containerization, automation, cloud platforms, and more through ha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
+</p>
 
 ###
 
