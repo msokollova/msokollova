@@ -3,10 +3,10 @@
 ###
 
 <p align="left">
-I'm an <strong>Application Administrator</strong> with a passion for technology and a dream of becoming a <strong>DevOps Engineer</strong>. 🚀  
-🎯 Currently diving deep into DevOps concepts, tools, and practices through courses and tutorials. I enjoy exploring <strong>automation</strong>, <strong>cloud computing</strong>, and <strong>CI/CD pipelines</strong>.  
-🌱 Always curious and eager to learn, I believe in continuous improvement and sharing knowledge.  
-📚 Let's connect, collaborate, and build something amazing together!  
+I'm an <strong>Application Administrator</strong> with a passion for technology and a dream of becoming a <strong>DevOps Engineer</strong>. 🚀  <br>
+🎯 Currently diving deep into DevOps concepts, tools, and practices through courses and tutorials. I enjoy exploring <strong>automation</strong>, <strong>cloud computing</strong>, and <strong>CI/CD pipelines</strong>.  <br>
+🌱 Always curious and eager to learn, I believe in continuous improvement and sharing knowledge.  <br>
+📚 Let's connect, collaborate, and build something amazing together! 
 </p>
 
 ###
